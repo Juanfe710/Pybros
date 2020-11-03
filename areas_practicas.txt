@@ -1,0 +1,10 @@
+Jensen, C.;2004;Dibujo y diseño en ingeniería;México;McGraw-Hill Interamericana;4;Jensen, C. (2004). Dibujo y diseño en ingeniería. México: McGraw-Hill Interamericana.
+Valencia García, G.;2009;Geometría descriptiva Paso a Paso;Bogotá;Ecoe Ediciones;3;Valencia García, G. (2009). Geometría descriptiva. Bogotá: Ecoe Ediciones.
+Hall y Stacey, T y J-P.;2009;Python 3 for Absolute Begginers;New York;Apress;5;Hall, T., & Stacey, J. (2009). Python 3 for absolute beginners. New York: Apress.
+Joyanes Aguilar, L.;2013;Fundamentos generales de programación;México;McGraw-Hill Interamericana;7;Joyanes Aguilar, L. (2013). Fundamentos generales de programación. México: McGraw Hill.
+Wellman, B.;2009;Geometría Descriptiva;Barcelona;Reverte;3;Wellman, B. (2013). Geometría descriptiva. Barcelona: Reverte.
+Kalpakjian, S.;2002;Manufactura Ingeniería y Tecnología;México;Pearson Education;2;Kalpakjian, S. (2002). Manufactura, ingeniería y tecnología. México: Pearson Education.
+Hunt, J.;2019;Advances Duide to Python 3 Programming;Suiza;Springer;4;Hunt, J. (2019). Advanced guide to Python 3 programming. Suiza: Springer.
+Lee, K.;2014;Python Programming Fundamentals;Londres;Springer;8;Lee, K. (2014). Python programming fundamentals. Londres: Springer.
+Jimenes Marín, M y Pérez Montes, F.;2016;Aprende a programar con Java;Madrid;Paraninfo;1;Jimenez Marín, A., & Pérez Montes, F. (2018). Aprende a programar con Java. Madrid: Paraninfo.
+Villalobos, M. R;2014;Fundamentos de programación C++;Perú;Macro;9;Villalobos, M. R (2014). Fundamentos de programación C++. Perú: Editorial Macro.

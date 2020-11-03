@@ -1,0 +1,10 @@
+Arias Londono, E., Rua Vasquez, J., & Velez Carvajal, A.;2012;Ecuaciones diferenciales;Medellín;Universidad de Medellín;6;Arias Londono, E., Rua Vásquez, J., & Velez Carvajal, A. (2012). Ecuaciones diferenciales. Medellín: Universidad de Medellín.
+Brown, J., & Churchill, R.;2010;Variable compleja y aplicaciones;Madrid;MacGraw-Hill;8;Brown, J., & Churchill, R. (2010). Variable compleja y aplicaciones. Madrid: MacGraw-Hill.
+LARSON, R.;2014;Fundamentos de álgebra lineal; ;CENGAGE LEARNING EDITORES;13;LARSON, R. (2014). Fundamentos de álgebra lineal. CENGAGE LEARNING EDITORES.
+Larson, R., Hostetler, R., & Edwards, B.;2009;Cálculo de varias variables;México;McGraw-Hill;5;Larson, R., Hostetler, R., Edwards, B., & Duran Reyes, S. (2009). Cálculo de varias variables. México: McGraw-Hill
+Lay, D.;2012;Álgebra lineal y sus aplicaciones;México;Pearson Educacion;11;Lay, D. (2012). Álgebra lineal y sus aplicaciones. México: Pearson Educacion.
+Leithoild, L.;2009;El cálculo;Oxford University Press;México;0;Leithold, L. (2009). El cálculo. México: Oxford University Press.
+Sandoval, L.;2009;Cálculo diferencial e integral;México;Santillana;7;Sandoval, L. (2008). Cálculo diferencial e integral. México: Santillana.
+Ortiz, F.;2007;Cálculo integral;México;Grupo Editorial Patria;3;Ortiz Campos, F. (2007). Cálculo integral. México: Grupo Editorial Patria.
+Stewart, J.;2007;Cálculo diferencial e integral;México;International Thomson;4;Stewart, J. (2007). Cálculo diferencial e integral. México:International Thomson.
+Walpole, R.;2012;Probabilidad y estadística para ingenieros;México;Pearson;2;Walpole, R. (2012). Probabilidad y estadística para ingenieros. México: Pearson.

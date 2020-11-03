@@ -1,0 +1,40 @@
+Física|Corzo, P. M. (2012)|Mecánica y ondas II |1|
+Física|Domingo, A. M. |Mecánica de Fluidos |1|
+Física|Giancoli, D. C. | FÍSICA. Principios con Aplicaciones|1|
+Física|González, P. G.-E.|Las ecuaciones de Maxwell |1|
+Física|Jiménez, C. R.| Apuntes de física Fundamental |1|
+Física|Martí, A. G.| Mecánica: Cinemática y Dinámica |1|
+Física|Muñoz, J. B. | Leyes de Maxwell |1|
+Física|Navarro, A. P. | Ondas electromagnéticas |1|
+Física|Rovira, L. J. | Termodinámica y Energía, energías renovables|1|
+Física|Vivas, H. | Física de osilaciones, ondas y ópticas |1|
+Ciencias Naturales|Audesirk, T. | Biología La vida en la tierra |1|
+Ciencias Naturales|Bosque, F. H. | Química Inorgánica Cuarta Edición|1|
+Ciencias Naturales|Brown, T. L. | Química la ciencia central|1|
+Ciencias Naturales|Chang, R. | Fisicoquímica para las ciencias químicas y biológicas|1|
+Ciencias Naturales|Chang, R. | Química Chang |1|
+Ciencias Naturales|M.Cooper, G.|The Cell. A molecular Approach |1|
+Ciencias Naturales|Skoog, D. A.|Fundamentos de Química Análitica |1|
+Ciencias Naturales|Timberlake, K. C.|Química general, orgánica y biológica: Estructuras de la vida |1|
+Ciencias Naturales|WHITTEN, K. W.	|Química 10 edición |1|
+Ciencias Naturales|Zumdahl, S. S. | Principios de química|1|
+Áreas prácticas|Jensen, C. | Dibujo y diseño en ingeniería|1|
+Áreas prácticas|Valencia García, G.|Geometría descriptiva|1|
+Áreas prácticas|Hall, T., & Stacey, J.|Python 3 for absolute beginners|1|
+Áreas prácticas|Joyanes Aguilar, L.|Fundamentos generales de programación|1|
+Áreas prácticas|Wellman, B.|Geometría descriptiva|1|
+Áreas prácticas|Kalpakjian, S.|Manufactura, ingeniería y tecnología|1|
+Áreas prácticas|Hunt, J.|Advanced guide to Python 3 programming|1|
+Áreas prácticas|Lee, K.|Python programming fundamentals|1|
+Áreas prácticas|Jimenez Marín, A., & Pérez Montes|Aprende a programar con Java|1|
+Áreas prácticas|Villalobos, M. R|Fundamentos de programación C++|1|
+Matemáticas|Arias Londono, E., Rua Vásquez, J., & Velez Carvajal, A.|Ecuaciones diferenciales|1|
+Matemáticas|Brown, J., & Churchill, R. |Variable compleja y aplicaciones|1|
+Matemáticas|LARSON, R.|Fundamentos de álgebra lineal|1|
+Matemáticas|Larson, R., Hostetler, R., Edwards, B., & Duran Reyes, S.|Cálculo de varias variables|1|
+Matemáticas|Lay, D.|Álgebra lineal y sus aplicaciones|1|
+Matemáticas|Leithold, L.|El cálculo|1|
+Matemáticas|Sandoval, L.|Cálculo diferencial e integral|1|
+Matemáticas|Ortiz Campos, F.|Cálculo integral|1|
+Matemáticas|Stewart, J.|Cálculo diferencial e integral|1|
+Matemáticas|Walpole, R.|Probabilidad y estadística para ingenieros|1|
