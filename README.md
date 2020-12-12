@@ -20,5 +20,11 @@ Información básica para ejecutar el programa:
     3. El programa requiere descargar 5 archivo txt para su correcta ejecución.
     
     
-![alt text](https://github.com/Juanfe710/Pybros/blob/main/Pybros%20inicio.jpeg)
+![alt text](https://github.com/Juanfe710/Pybros/blob/main/Im%C3%A1genes/Pybros%20inicio.jpeg)
+![alt text](https://github.com/Juanfe710/Pybros/blob/main/Im%C3%A1genes/Pybros%201.PNG)
+![alt text](https://github.com/Juanfe710/Pybros/blob/main/Im%C3%A1genes/Pybros%202.PNG)
+![alt text](https://github.com/Juanfe710/Pybros/blob/main/Im%C3%A1genes/Pybros%203.PNG)
+![alt text](https://github.com/Juanfe710/Pybros/blob/main/Im%C3%A1genes/Pybros%204.PNG)
+![alt text](https://github.com/Juanfe710/Pybros/blob/main/Im%C3%A1genes/Pybros%205.PNG)
+
 
