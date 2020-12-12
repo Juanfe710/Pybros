@@ -20,5 +20,5 @@ Información básica para ejecutar el programa:
     3. El programa requiere descargar 5 archivo txt para su correcta ejecución.
     
     
-![alt text](https://github.com/Juanfe710/Pybros/blob/main/5.PNG)
+![alt text](https://github.com/Juanfe710/Pybros/blob/main/Pybros%20inicio.jpeg)
 
