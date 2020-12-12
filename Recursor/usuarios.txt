@@ -1,0 +1,13 @@
+Administrador;Daniela Forero Rosales;Daniela;DaNiElA%1234; ; ; ;
+Administrador;Yeira Rodríguez Rodríguez;Yeira;YeIrA%1234; ; ; ;
+Administrador;Juan Hincapie Gomez;Juan;JuAn%1234; ; ; ;
+Usuario;Stephany Torres Jimenez;Stephany;StEpHaNy%1234; ; ; ;
+Usuario;Hugo Acosta Parra;Hugo;HuGo%1234; ; ; ;
+Usuario;Paco Gonzalez Cáceres;Paco;PaCo%1234; ; ; ;
+Usuario;Luis Barragan Lopez;Luis;LuIs%1234; ; ; ;
+Usuario;Camila Perez;Camila;Camila%1234; ; ; ;
+Usuario;Sofía Guio;Sofía;Sofia%1234; ; ; ;
+Usuario;Janeth Rodríguez;Janeth;Janeth%1234; ; ; ;
+Usuario;Sara Torres;SaRa;Sara%1234; ; ; ;
+Usuario;Daniel Hernandez;Daniel;DaNiEl%1234; ; ; ;
+Usuario;Vivian;Vivian F;Viv%2; ; ; ;

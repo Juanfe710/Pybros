@@ -1,0 +1,10 @@
+4000;Audesirk, T.;2008;Biología La vida en la tierra;México;Pearson;18;Audesirk, T. (2008). Biología La vida en la tierra. México: Pearson.;http://library.lol/main/90083B143EE171956820B15C49BCBA2F;
+4001;Bosque, F. H.;2008;Química Inorgánica Cuarta Edición;México;McGraw-Hill;4;Bosque, F. H. (2008). Química Inorgánica Cuarta Edición. México: McGraw-Hill.;NO DISPONIBLE;
+4002;Brown, T. L.;2014;Química la ciencia central;México;Pearson;7;Brown, T. L. (2014). Química la ciencia central. México: Pearson.;http://library.lol/main/EC4825F29F189A139B7BC02168059B94;
+4003;Chang, R.;2008;Fisicoquímica para las ciencias químicas y biológicas;México;McGraw-Hill;23;Chang, R. (2008). Fisicoquímica para las ciencias químicas y biológicas. México: McGraw-Hill.;http://library.lol/main/A9D41AC65B95748E14F399949B71807C;
+4004;Chang, R.;2010;Química Chang;México;McGRAW-HILL.;7;Chang, R. (2010). Química Chang. México: McGRAW-HILL.;http://library.lol/main/A1F0D27775C542C527AD735AE26EBB7F;
+4005;M.Cooper, G.;2019;The Cell. A molecular Approach;New York;Sinauer Associates;17;M.Cooper, G. (2019). The Cell. A molecular Approach. New York: Sinauer Associates.;NO DISPONIBLE;
+4006;Skoog, D. A.;2015;Fundamentos de Química Análitica;México;CENGAGE Learning;32;Skoog, D. A. (2015). Fundamentos de Química Análitica. México: CENGAGE Learning.;http://library.lol/main/8AAB6811B42F282F944281AB92BA171C;
+4008;WHITTEN, K. W.;2015;Química 10 edición;México;CENGANGE Learning;12;WHITTEN, K. W. (2015). Química 10 edicion. México: CENGANGE Learning.;http://library.lol/main/FED5DA974E4FC8F1B3974A5346A2C426;
+4009;Zumdahl, S. S.;2012;Principios de química;México;CENGAGE learning;6;Zumdahl, S. S. (2012). Principios de química. México: CENGAGE learning.;http://library.lol/main/AB1997FB4F02E54E8D17789F27CAF1D2;
+4007;Timberlake, K. C.;2005;Química general, orgánica y biológica: Estructuras de la vida;México;Pearson;14;Timberlake, K. C. (2013). Química general, orgánica y biológica: Estructuras de la vida. México: Pearson.;http://library.lol/main/8E9E9AFE41F1968EB3D72E9862B59367;
