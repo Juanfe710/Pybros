@@ -1,0 +1,9 @@
+1000;Arias Londono, E., Rua Vasquez, J., & Velez, A.;2012;Ecuaciones diferenciales;Medellín;Universidad de Medellín;6;Arias Londono, E., Rua Vásquez, J., & Velez Carvajal, A. (2012). Ecuaciones diferenciales. Medellín: Universidad de Medellín.;NO DISPONIBLE;
+1001;Brown, J., & Churchill, R.;2010;Variable compleja y aplicaciones;Madrid;MacGraw-Hill;8;Brown, J., & Churchill, R. (2010). Variable compleja y aplicaciones. Madrid: MacGraw-Hill.;http://library.lol/main/7E1797A6996752E58C73B4EA25116BBD;
+1002;LARSON, R.;2014;Fundamentos de álgebra lineal; ;CENGAGE LEARNING EDITORES;13;LARSON, R. (2014). Fundamentos de álgebra lineal. CENGAGE LEARNING EDITORES.;NO DISPONIBLE;
+1004;Lay, D.;2012;Álgebra lineal y sus aplicaciones;México;Pearson Educacion;11;Lay, D. (2012). Álgebra lineal y sus aplicaciones. México: Pearson Educacion.;http://library.lol/main/79185948E755CC9B9611346E586CD050;
+1005;Leithoild, L.;2009;El cálculo;Oxford University Press;México;0;Leithold, L. (2009). El cálculo. México: Oxford University Press.;http://library.lol/main/1CB8167BBB1351DCB178F91CDAB8F915;
+1009;Walpole, R.;2012;Probabilidad y estadística para ingenieros;México;Pearson;2;Walpole, R. (2012). Probabilidad y estadística para ingenieros. México: Pearson.;http://library.lol/main/252FC2A3FD26CAB1131AE635B6D3A172;
+1003;Larson, R., Hostetler, R., & Edwards, B.;2009;Cálculo de varias variables;México;McGraw-Hill;20;Larson, R., Hostetler, R., Edwards, B., & Duran Reyes, S. (2009). Cálculo de varias variables. México: McGraw-Hill.;http://library.lol/main/9E037E6CF58EDA248F3A69BB72038275;
+1006;Sandoval, L.;2009;Cálculo diferencial e integral;México;Santillana;8;Sandoval, L. (2008). Cálculo diferencial e integral. México: Santillana.;NO DISPONIBLE;
+1007;Ortiz, F.;2007;Cálculo integral;México;Grupo Editorial Patria;50;Ortiz Campos, F. (2007). Cálculo integral. México: Grupo Editorial Patria.;http://library.lol/main/B755953289466EE78E38BFF72F101E3B;

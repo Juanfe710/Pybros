@@ -1,0 +1,10 @@
+3000;Corzo, P. M.;2012;Mecánica y ondas II;Madrid;OPENLIBRA;6;Corzo, P. M. (2012). Mecánica y ondas II. Madrid: OPENLIBRA.;NO DISPONIBLE;
+3001;Domingo, A. M.;2011;Mecánica de Fluidos;Madrid;OPENLIBRA;7;Domingo, A. M. (2011). Mecánica de Fluidos. Madrid: OPENLIBRA.;NO DISPONIBLE;
+3002;Giancoli, D. C.;2006;FÍSICA:Principios con Aplicaciones. Sexta Edición;México;Person Education;42;Giancoli, D. C. (2006). FÍSICA. Principios con Aplicaciones. Sexta Edición. México: Person Education.;http://library.lol/main/EC507E607AF61218A77900073C7E5BEB;
+3003;González, P. G.-E.;2012;Las ecuaciones de Maxwell;Madrid;OPENLIBRA;4;González, P. G.-E. (2012). Las ecuaciones de Maxwell. Madrid: OPENLIBRA.;NO DISPONIBLE;
+3004;Jiménez, C. R.; 2015;Apuntes de física Fundamental;Madrid;OPENLIBRA;7;Jiménez, C. R. (2015). Apuntes de física Fundamental. Madrid: OPENLIBRA.;NO DISPONIBLE;
+3005;Martí, A. G.; 2011;Mecánica: Cinemática y Dinámica;Cataluña;OPENLIBRA;34;Martí, A. G. (2011). Mecánica: Cinemática y Dinámica. Cataluña: OPENLIBRA.;http://library.lol/main/5FB9DDD6C5005C8DDB82FD518B3CCC42;
+3006;Muñoz, J. B.;2013;Leyes de Maxwell;Cataluña;OPENLIBRA;21;Muñoz, J. B. (2013). Leyes de Maxwell. Cataluña: OPENLIBRA.;NO DISPONIBLE;
+3007;Navarro, A. P.; 2011;Ondas electromagnéticas;Cataluña;OPENLIBRA;13;Navarro, A. P. (2011). Ondas electromagnéticas. Cataluña: OPENLIBRA.;NO DISPONIBLE;
+3008;Rovira, L. J.;2013;Termodinámica y Energía, energías renovables;Cataluña;OPENLIBRA;4;Rovira, L. J. (2013). Termodinámica y Energía, energías renovables. Cataluña: OPENLIBRA.;NO DISPONIBLE;
+3009;Vivas, H.;1998;Física de osilaciones, ondas y ópticas;Bogotá;OPENLIBRA;8;Vivas, H. (2015). Física de osilaciones, ondas y ópticas. Bogotá: OPENLIBRA.;NO DISPONIBLE;
