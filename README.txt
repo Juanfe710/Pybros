@@ -19,3 +19,4 @@ Información básica para ejecutar el programa:
         pip install -r requirements.txt
     El programa requiere descargar 5 archivo txt para su correcta ejecución.
     
+
