@@ -19,4 +19,6 @@ Información básica para ejecutar el programa:
         pip install -r requirements.txt
     El programa requiere descargar 5 archivo txt para su correcta ejecución.
     
+    
+![alt text](https://github.com/Juanfe710/Pybros/blob/main/5.PNG)
 
