@@ -10,14 +10,14 @@ Integrantes:
     2. Juan Felipe Hincapié Gómez.
     3. Yeira Liseth Rodríguez Rodríguez.
 
-*Objetivo: Programa que permite extraer la imagen de la caratula de un libro desde el link donde se encuentra la información general del mismo y luego descarga dicha imagen en la ruta predeterminada para guardar archivos del ID.
+Objetivo: Programa que permite la clasificación de documentos requeridos en las carreras de ingeniería en donde su búsqueda se dé desde su nombre, autor o área en específico.
 
 Información básica para ejecutar el programa:
 
-    El programa necesita las siguientes librerías: BeautifulSoup, urlopen, requests, Pillow, Shutil. 
-    Ejecutar los siguientes comandos para instalar las librerias: 
+    1. El programa necesita las siguientes librerías: BeautifulSoup, urlopen, requests, Pillow, Shutil. 
+    2. Ejecutar los siguientes comandos para instalar las librerias: 
         pip install -r requirements.txt
-    El programa requiere descargar 5 archivo txt para su correcta ejecución.
+    3. El programa requiere descargar 5 archivo txt para su correcta ejecución.
     
     
 ![alt text](https://github.com/Juanfe710/Pybros/blob/main/5.PNG)
